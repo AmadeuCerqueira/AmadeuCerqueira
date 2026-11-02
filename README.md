@@ -1,4 +1,4 @@
-# Olá, eu sou o Amadeu
+# Olá, eu sou o Amadeu!
 
 Engenheiro de Software. Construo aplicações web completas, do banco de dados à interface, e gosto de garantir que elas funcionem bem: por isso escrevo testes e documento as decisões que tomo.
 
